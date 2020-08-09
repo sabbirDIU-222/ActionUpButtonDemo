@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">ActionUpButtonDemo</string>
+
+    <string-array name="countryInfo">
+        
+        <item>
+            
+             \nEngland
+             \nthe most fablus country , this country i visited first and set my step very warmfully
+             \nthe security of england are awasome
+            
+            
+        </item>
+
+        <item>
+            
+           \nFrance
+            \nthe most fablus country , this country i visited first and set my step very warmfully
+           \nthe security of england are awasome
+            
+            
+        </item>
+
+        <item>
+            
+            \nGermany
+            
+            \nthe most fablus country , this country i visited first and set my step very warmfully
+            \nthe security of england are awasome
+            
+            
+        </item>
+
+
+        <item>
+            
+           \nIndia
+            
+            \nthe most fablus country , this country i visited first and set my step very warmfully
+            \nthe security of england are awasome
+            
+            
+        </item>
+
+
+        <item>
+            
+            \Iran
+
+            \nthe most fablus country , this country i visited first and set my step very warmfully
+            \nthe security of england are awasome
+            
+            
+        </item>
+  <item>
+
+            \nNorway
+
+            \nthe most fablus country , this country i visited first and set my step very warmfully
+            \nthe security of england are awasome
+
+
+        </item>
+
+
+    </string-array>
+
+
+</resources>

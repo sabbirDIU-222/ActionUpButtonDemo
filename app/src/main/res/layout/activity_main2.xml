@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="3"
+    tools:context=".Main2Activity">
+
+
+
+    <TextView
+        android:layout_weight="2.5"
+        style="@style/textstyle2"
+        android:id="@+id/secondactivityTextView"
+   />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_weight=".2"
+
+        >
+
+        <TextView
+            style="@style/textstyle2"
+            android:text="Like"
+            android:drawableTop="@drawable/like"
+            android:id="@+id/likeId"
+            />
+         <TextView
+            style="@style/textstyle2"
+            android:text="Enojy It"
+            android:drawableTop="@drawable/clap"
+             android:id="@+id/clapId"
+            />
+        <TextView
+            style="@style/textstyle2"
+            android:text="Umm No"
+            android:drawableTop="@drawable/dont"
+            android:id="@+id/dontlikeId"
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>
